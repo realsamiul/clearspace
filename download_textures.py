@@ -36,7 +36,8 @@ for tex_rel_path in textures:
     
     print(f"Downloading WebGL Texture: {full_url}")
     try:
-        r = requests.get(full_url, impersonate="chrome120", timeout=20)
+        headers = {"Accept": "image/jpeg,image/png,image/svg+xml,image/*;q=0.8"}
+        r = requests.get(full_url, impersonate="chrome120", headers=headers, timeout=20)
         if r.status_code == 200:
             with open(save_path_nested, "wb") as f:
                 f.write(r.content)
