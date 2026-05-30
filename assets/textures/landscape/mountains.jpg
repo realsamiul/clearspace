@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en" data-component="ResizeMobile">
+
+<head>
+	<title>Clearspace : The Revolutionary Mission to Remove Orbital Debris | OMEGA®  </title>
+	<meta charset="UTF-8" />
+	<meta name="title" content="Clearspace : The Revolutionary Mission to Remove Orbital Debris | OMEGA®  "/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Discover the mission addressing space debris with new technologies and global teamwork, enhancing safety and sustainability in space operations, and securing the space environment for the future.">
+	<meta name="robots" content="index, follow"/>
+
+	<meta property="og:site_name" content="Omega" />
+	<meta property="og:type" content="website" />
+	<meta property="og:locale" content="en" />
+	<meta property="og:title" content="Clearspace : The Revolutionary Mission to Remove Orbital Debris | OMEGA®" />
+	<meta property="og:description" content="Discover the mission addressing space debris with new technologies and global teamwork, enhancing safety and sustainability in space operations, and securing the space environment for the future." />
+	<meta property="og:image" content="https://www.omegawatches.com/media/wysiwyg/AS11-40-5903HR-1200_2_14.jpg">
+	<meta property="og:image:secure_url" content="https://www.omegawatches.com/media/wysiwyg/AS11-40-5903HR-1200_2_14.jpg">
+	<meta property="og:url" content="https://www.omegawatches.com/clearspace" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@omegawatches">
+	<meta name="twitter:title" content="Clearspace : The Revolutionary Mission to Remove Orbital Debris | OMEGA®" />
+	<meta name="twitter:description" content="Discover the mission addressing space debris with new technologies and global teamwork, enhancing safety and sustainability in space operations, and securing the space environment for the future." />
+
+
+	<link rel="stylesheet" href="/world-of-omega/sustainability/clearspace/appv2.css">
+	<link rel="shortcut icon" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon.ico" />
+	<link rel="icon" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon.ico" />
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon.ico" />
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon-32x32.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon-76x76.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon-120x120.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/favicon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/apple-touch-icon.png">
+	<link rel="mask-icon" href="https://www.omegawatches.com/static/version1678201541/frontend/Omega/default/default/Magento_Theme/safari-pinned-tab.svg" color="#c40d2e">
+
+	<link rel="icon" type="image/x-icon" href="https://www.omegawatches.com/static/version1676965712/frontend/Omega/default/default/Magento_Theme/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.omegawatches.com/static/version1676965712/frontend/Omega/default/default/Magento_Theme/favicon.ico" />
+
+	<link rel="alternate" hreflang="en" href="https://www.omegawatches.com/clearspace" />
+	<link rel="alternate" hreflang="en-US" href="https://www.omegawatches.com/en-us/clearspace" />
+	<link rel="alternate" hreflang="en-GB" href="https://www.omegawatches.com/en-gb/clearspace" />
+	<link rel="alternate" hreflang="de-DE" href="https://www.omegawatches.com/de-de/clearspace" />
+	<link rel="alternate" hreflang="de-AT" href="https://www.omegawatches.com/de-at/clearspace" />
+	<link rel="alternate" hreflang="fr" href="https://www.omegawatches.com/fr/clearspace" />
+	<link rel="alternate" hreflang="fr-FR" href="https://www.omegawatches.com/fr-fr/clearspace" />
+	<link rel="alternate" hreflang="it-IT" href="https://www.omegawatches.com/it-it/clearspace" />
+	<link rel="alternate" hreflang="es" href="https://www.omegawatches.com/es/clearspace" />
+	<link rel="alternate" hreflang="es-ES" href="https://www.omegawatches.com/es-es/clearspace" />
+	<link rel="alternate" hreflang="ru-RU" href="https://www.omegawatches.com/ru/clearspace" />
+	<link rel="alternate" hreflang="zh-CN" href="https://www.omegawatches.cn/clearspace" />
+	<link rel="alternate" hreflang="pt" href="https://www.omegawatches.com/pt/clearspace" />
+	<link rel="alternate" hreflang="de-CH" href="https://www.omegawatches.com/de-ch/clearspace" />
+	<link rel="alternate" hreflang="en-CH" href="https://www.omegawatches.com/en-ch/clearspace" />
+	<link rel="alternate" hreflang="en-CA" href="https://www.omegawatches.com/en-ca/clearspace" />
+	<link rel="alternate" hreflang="fr-CH" href="https://www.omegawatches.com/fr-ch/clearspace" />
+	<link rel="alternate" hreflang="fr-CA" href="https://www.omegawatches.com/fr-ca/clearspace" />
+	<link rel="alternate" hreflang="it-CH" href="https://www.omegawatches.com/it-ch/clearspace" />
+	<link rel="alternate" hreflang="ja-JP" href="https://www.omegawatches.jp/clearspace" />
+	<link rel="alternate" hreflang="en-AU" href="https://www.omegawatches.com/en-au/clearspace" />
+	<link rel="alternate" hreflang="kr-KO" href="https://www.omegawatches.co.kr/clearspace" />
+	<link rel="alternate" hreflang="zh-TW" href="https://www.omegawatches.com.tw/clearspace" />
+	<link rel="alternate" hreflang="en-SE" href="https://www.omegawatches.com/en-se/clearspace" />
+	<link rel="alternate" hreflang="en-DK" href="https://www.omegawatches.com/en-dk/clearspace" />
+	<link rel="alternate" hreflang="th-TH" href="https://www.omegawatches.com/th-th/clearspace" />
+	<link rel="alternate" hreflang="zh-HK" href="https://www.omegawatches.com.hk/zh-hk/clearspace" />
+	<link rel="alternate" hreflang="en-HK" href="https://www.omegawatches.com.hk/en-hk/clearspace" />
+	<link rel="canonical" href="https://www.omegawatches.com/clearspace" />
+
+	<style>
+	#loader {
+	    position: fixed;
+	    inset: 0;
+	    background: black;
+	    z-index: 1003;
+	    transition: opacity 4s 0.6s linear;
+	}
+	
+	#loader .logo,
+	#loader .big-circle,
+	#loader .omega,
+	#loader .clearspace {
+	    transition: opacity 0.6s linear;
+	}
+	
+	#loader .big-circle {
+	    position: absolute;
+	    margin: auto;
+	    inset: -100%;
+	}
+	
+	#loader .big-circle {
+	    transform-origin: center;
+	    animation: rotating 2s linear infinite;
+	}
+	
+	#loader .logo {
+	    height: 25px;
+	    opacity: 0;
+	    transform: scale(0.5) rotate(-90deg);
+	    transition: opacity 0.8s linear, transform 1s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+	}
+	
+	@media (min-width: 1024px) {
+	    #loader .logo {
+	        height: 35px;
+	    }
+	}
+	
+	#loader .logo .circle {
+	    transform-origin: center;
+	    animation: rotating 2s linear infinite;
+	}
+	
+	@keyframes rotating {
+	    from {
+	        transform: rotate(0deg) scale(0.95);
+	    }
+	    to {
+	        transform: rotate(360deg) scale(0.95);
+	    }
+	}
+	
+	#loader .big-circle {
+	    width: 350px;
+	}
+	
+	@media (min-width: 1024px) {
+	    #loader .big-circle {
+	        width: 563px;
+	    }
+	}
+	
+	#loader .clearspace,
+	#loader .omega {
+	    height: 12px;
+	}
+	
+	@media (min-width: 1024px) {
+	    #loader .clearspace,
+	    #loader .omega {
+	        height: 15px;
+	    }
+	}
+	
+	#loader .clearspace path,
+	#loader .omega path {
+	    opacity: 0;
+	    transition: opacity 2s linear;
+	}
+	
+	#loader .omega path:nth-child(1) {transition-delay: 0s;}
+	#loader .omega path:nth-child(2) {transition-delay: 0.05s;}
+	#loader .omega path:nth-child(3) {transition-delay: 0.1s;}
+	#loader .omega path:nth-child(4) {transition-delay: 0.15s;}
+	#loader .omega path:nth-child(5) {transition-delay: 0.2s;}
+	
+	#loader .clearspace path:nth-child(1) {transition-delay: 0.25s;}
+	#loader .clearspace path:nth-child(2) {transition-delay: 0.3s;}
+	#loader .clearspace path:nth-child(3) {transition-delay: 0.35s;}
+	#loader .clearspace path:nth-child(4) {transition-delay: 0.4s;}
+	#loader .clearspace path:nth-child(5) {transition-delay: 0.45s;}
+	#loader .clearspace path:nth-child(6) {transition-delay: 0.5s;}
+	#loader .clearspace path:nth-child(7) {transition-delay: 0.55s;}
+	#loader .clearspace path:nth-child(8) {transition-delay: 0.6s;}
+	#loader .clearspace path:nth-child(9) {transition-delay: 0.65s;}
+	#loader .clearspace path:nth-child(10) {transition-delay: 0.7s;}
+	
+	#loader .clearspace {
+	    top: 0;
+	    bottom: 0;
+	    margin: auto 0;
+	    right: calc(50% + 24px);
+	}
+	
+	@media (min-width: 1024px) {
+	    #loader .clearspace {
+	        right: calc(50% + 58px);
+	    }
+	}
+	
+	#loader .omega {
+	    top: 0;
+	    bottom: 0;
+	    margin: auto 0;
+	    left: calc(50% + 24px);
+	}
+	
+	@media (min-width: 1024px) {
+	    #loader .omega {
+	        left: calc(50% + 58px);
+	    }
+	}
+	
+	#loader.loading .logo {
+	    opacity: 1;
+	    transform: scale(1) rotate(0deg);
+	}
+	
+	#loader.loading .clearspace path,
+	#loader.loading .omega path {
+	    opacity: 1;
+	}
+	
+	#loader.loaded {
+	    pointer-events: none;
+	    opacity: 0;
+	}
+	
+	#loader.loaded .logo,
+	#loader.loaded .big-circle,
+	#loader.loaded .omega,
+	#loader.loaded .clearspace {
+	    opacity: 0;
+	}
+	
+	
+	#loader .loader-inside {
+	    position: absolute;
+	    inset: 0;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    gap: 25px;
+	}
+	
+	</style>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NF33S6T');</script>
+	<!-- End Google Tag Manager -->
+</head>
+
+<body data-component="Body" data-text-animation="">
+	<div id="loader">
+	    <svg class="big-circle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 563 563"><circle cx="281.5" cy="281.5" r="280.75" stroke="url(#out-gradient)" stroke-opacity=".2" stroke-width="1.5"/><defs><linearGradient id="out-gradient" x1="-193.531" x2="862.094" y1="-369.469" y2="932.469" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".6702" stop-color="#fff" stop-opacity="0"/></linearGradient></defs></svg>
+	    <div class="loader-inside">
+	        <svg class="clearspace" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 29.7429 3.1115"><g style="fill:none"><path d="M113.134.8v1.632h-5.12v3.136h4.96V7.2h-4.96v3.168h5.12V12h-6.8V.8Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M94.1219 6.4c0 .5867.1066 1.136.32 1.648.2133.512.5066.96.88 1.344.3733.3733.8106.672 1.312.896.512.2133 1.0613.32 1.648.32.7253 0 1.3813-.1653 1.9681-.496.597-.3307 1.083-.768 1.456-1.312l1.344.96c-.533.7573-1.216 1.36-2.048 1.808-.821.448-1.7281.672-2.7201.672-.8 0-1.5574-.1547-2.272-.464-.704-.3093-1.3227-.7253-1.856-1.248-.5227-.5333-.9387-1.152-1.248-1.856-.3094-.7147-.464-1.472-.464-2.272 0-.8.1546-1.552.464-2.256.3093-.7147.7253-1.3333 1.248-1.856.5333-.5333 1.152-.9547 1.856-1.264.7146-.3093 1.472-.464 2.272-.464.992 0 1.8991.224 2.7201.672.832.448 1.515 1.0507 2.048 1.808l-1.344.96c-.373-.544-.859-.9813-1.456-1.312-.5868-.3307-1.2428-.496-1.9681-.496-.5867 0-1.136.112-1.648.336-.5014.2133-.9387.512-1.312.896-.3734.3733-.6667.816-.88 1.328-.2134.512-.32 1.0613-.32 1.648z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M82.1959 8.176h4.08l-2.032-4.08zM78.3719 12 84.2439.48 90.1159 12h-1.904l-1.12-2.192h-5.712L80.2759 12Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M74.6187 4.096c0-.3947-.128-.7467-.384-1.056-.1493-.1813-.3466-.3253-.592-.432-.2453-.1173-.5706-.176-.976-.176h-1.968V5.76h1.968c.4054 0 .7307-.0533.976-.16.2454-.1173.4427-.2667.592-.448.256-.3093.384-.6613.384-1.056zM72.6667.8c.608 0 1.1147.0853 1.52.256.416.16.7734.3787 1.072.656.32.2987.5707.6507.752 1.056.192.4053.288.848.288 1.328 0 .48-.096.9227-.288 1.328-.1813.4053-.432.7573-.752 1.056-.2986.2773-.656.5013-1.072.672-.4053.16-.912.24-1.52.24h-1.968V12h-1.68V.8Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M60.3981 9.408c.096.3413.2987.6293.608.864.3094.224.6507.336 1.024.336.4907 0 .8854-.16 1.184-.48.2987-.3307.448-.72.448-1.168 0-.2453-.048-.4693-.144-.672-.096-.2133-.2133-.3787-.352-.496a2.1418 2.1418 0 0 0-.768-.448 26.629 26.629 0 0 0-.88-.32 9.2951 9.2951 0 0 1-.912-.384c-.3093-.1493-.6026-.3733-.88-.672-.2666-.2773-.48-.608-.64-.992-.16-.384-.24-.8-.24-1.248 0-.4373.0854-.848.256-1.232.1707-.384.4-.72.688-1.008.288-.288.624-.512 1.008-.672.384-.1707.7947-.256 1.232-.256.3627 0 .7094.064 1.04.192.3414.1173.6454.2827.912.496.2774.2133.512.464.704.752.192.288.336.6027.432.944l-1.584.384c-.1066-.3307-.2986-.6027-.576-.816-.2666-.2133-.576-.32-.928-.32-.224 0-.4266.0427-.608.128a1.4573 1.4573 0 0 0-.48.32 1.5984 1.5984 0 0 0-.304.48 1.4991 1.4991 0 0 0-.112.576c0 .224.0374.4267.112.608.0747.1813.1707.336.288.464.2134.2453.464.4267.752.544.288.1067.5867.2133.896.32.32.1067.64.2347.96.384.3307.1387.64.3573.928.656.2454.2453.4534.5547.624.928.1707.3733.256.816.256 1.328 0 .4587-.0853.8907-.256 1.296a3.105 3.105 0 0 1-.688 1.04c-.288.2987-.6346.5387-1.04.72-.4053.1707-.848.256-1.328.256-.384 0-.752-.064-1.104-.192a3.1986 3.1986 0 0 1-.96-.512 3.6006 3.6006 0 0 1-.72-.784 3.4638 3.4638 0 0 1-.448-.992z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M53.95 4.096c0-.3947-.128-.7467-.384-1.056-.1493-.1813-.3467-.3253-.592-.432-.2453-.1173-.5707-.176-.976-.176H50.03V5.76h1.968c.4053 0 .7307-.0533.976-.16.2453-.1173.4427-.2667.592-.448.256-.3093.384-.6613.384-1.056ZM53.886 12l-3.552-4.608h-.304V12h-1.68V.8h3.648c.704 0 1.2907.1173 1.76.352.48.224.8747.5333 1.184.928.2133.2773.3787.592.496.944.128.3413.192.6987.192 1.072 0 .4693-.0853.896-.256 1.28-.16.384-.3893.72-.688 1.008-.288.2773-.6293.5013-1.024.672-.3947.16-.816.2507-1.264.272l3.6 4.672z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M37.624 8.176h4.08l-2.032-4.08ZM33.8 12 39.672.48 45.544 12H43.64l-1.12-2.192h-5.712L35.704 12Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M31.2469.8v1.632h-5.12v3.136h4.96V7.2h-4.96v3.168h5.12V12h-6.8V.8Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M21.4125 10.368V12h-6.8V.8h1.68v9.568Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/><path d="M2.4 6.4c0 .5867.1067 1.136.32 1.648s.5067.96.88 1.344c.3733.3733.8107.672 1.312.896.512.2133 1.0613.32 1.648.32.7253 0 1.3813-.1653 1.968-.496.5973-.3307 1.0827-.768 1.456-1.312l1.344.96c-.5333.7573-1.216 1.36-2.048 1.808-.8213.448-1.728.672-2.72.672-.8 0-1.5573-.1547-2.272-.464-.704-.3093-1.3227-.7253-1.856-1.248-.5227-.5333-.9387-1.152-1.248-1.856C.8747 7.9573.72 7.2.72 6.4c0-.8.1547-1.552.464-2.256.3093-.7147.7253-1.3333 1.248-1.856.5333-.5333 1.152-.9547 1.856-1.264C5.0027.7147 5.76.56 6.56.56c.992 0 1.8987.224 2.72.672.832.448 1.5147 1.0507 2.048 1.808L9.984 4c-.3733-.544-.8587-.9813-1.456-1.312-.5867-.3307-1.2427-.496-1.968-.496-.5867 0-1.136.112-1.648.336-.5013.2133-.9387.512-1.312.896-.3733.3733-.6667.816-.88 1.328-.2133.512-.32 1.0613-.32 1.648Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 -.1905 -.127)"/></g></svg>
+	        <svg class="logo" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 35 35"><circle class="circle" cx="17.5" cy="17.5" r="16.9531" stroke="url(#a)" stroke-width="1.0938"/><path fill="url(#b)" d="M0 0h.9419v8.477H0z" transform="scale(1 -1) rotate(45 35.8371 13.6714)"/><path fill="url(#c)" d="M0 0h.9419v8.477H0z" transform="scale(1 -1) rotate(-45 -17.8658 -27.4398)"/><defs><linearGradient id="a" x1="-12.0313" x2="53.5937" y1="-22.9687" y2="57.9687" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".6702" stop-color="#fff" stop-opacity="0"/></linearGradient><linearGradient id="b" x1=".4709" x2=".4709" y1="0" y2="8.477" gradientUnits="userSpaceOnUse"><stop stop-color="#CC4C2C"/><stop offset="1" stop-color="#FD4315"/></linearGradient><linearGradient id="c" x1=".4709" x2=".4709" y1="0" y2="8.477" gradientUnits="userSpaceOnUse"><stop stop-color="#CC4C2C"/><stop offset="1" stop-color="#FD4315"/></linearGradient></defs></svg>
+	        <svg class="omega" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 17.6987 3.1327"><g style="fill:#fff"><path d="M58.92 7.4031H63l-2.032-4.08zm-3.824 3.824 5.872-11.52 5.872 11.52h-1.904l-1.12-2.192h-5.712L57 11.2271z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 .014 .0775)"/><path d="M47.009 1.4191c-.5867 0-1.136.112-1.648.336-.5014.2134-.9387.512-1.312.896-.3734.3734-.6667.816-.88 1.328-.2134.512-.32 1.0614-.32 1.648 0 .5867.1066 1.136.32 1.648.2133.512.5066.96.88 1.344.3733.3734.8106.672 1.312.896.512.2133 1.0613.32 1.648.32.48 0 .9333-.0747 1.36-.224.4373-.1493.832-.3573 1.184-.624.352-.2666.656-.5813.912-.944.256-.3626.4426-.7626.56-1.2h-3.92v-1.632h5.728c.0106.064.016.1334.016.208v.208c0 .8-.1547 1.5574-.464 2.272-.3094.704-.7307 1.3227-1.264 1.856-.5227.5227-1.1414.9387-1.856 1.248-.704.3093-1.456.464-2.256.464-.8 0-1.5574-.1547-2.272-.464-.704-.3093-1.3227-.7253-1.856-1.248-.5227-.5333-.9387-1.152-1.248-1.856-.3094-.7146-.464-1.472-.464-2.272 0-.8.1546-1.552.464-2.256.3093-.7146.7253-1.3333 1.248-1.856.5333-.5333 1.152-.9546 1.856-1.264.7146-.3093 1.472-.464 2.272-.464.992 0 1.8986.224 2.72.672.832.448 1.5146 1.0507 2.048 1.808l-1.344.96c-.3734-.544-.8587-.9813-1.456-1.312-.5867-.3306-1.2427-.496-1.968-.496z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 .014 .0775)"/><path d="M37.896.0271v1.632h-5.12v3.136h4.96v1.632h-4.96v3.168h5.12v1.632h-6.8v-11.2Z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 .014 .0775)"/><path d="m14.1921 11.2271 3.632-11.52 3.296 7.68 3.296-7.68 3.632 11.52h-1.76l-2.112-6.784-3.056 7.104-3.056-7.104-2.112 6.784z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 .014 .0775)"/><path d="M9.9471 5.6271c0-.5866-.1067-1.136-.32-1.648s-.5066-.9546-.88-1.328c-.3733-.384-.816-.6826-1.328-.896-.5013-.224-1.0453-.336-1.632-.336-.5866 0-1.136.112-1.648.336-.5013.2134-.9386.512-1.312.896-.3733.3734-.6666.816-.88 1.328-.2133.512-.32 1.0614-.32 1.648 0 .5867.1067 1.136.32 1.648.2134.512.5067.96.88 1.344.3734.3734.8107.672 1.312.896.512.2133 1.0614.32 1.648.32.5867 0 1.1307-.1067 1.632-.32.512-.224.9547-.5226 1.328-.896.3734-.384.6667-.832.88-1.344.2133-.512.32-1.0613.32-1.648zm-10 0c0-.8.1547-1.552.464-2.256.3094-.7146.7254-1.3333 1.248-1.856.5334-.5333 1.152-.9546 1.856-1.264.7147-.3093 1.472-.464 2.272-.464.8 0 1.552.1547 2.256.464.7147.3094 1.3333.7307 1.856 1.264.5333.5227.9547 1.1414 1.264 1.856.3093.704.464 1.456.464 2.256 0 .8-.1547 1.5574-.464 2.272-.3093.704-.7307 1.3227-1.264 1.856-.5227.5227-1.1413.9387-1.856 1.248-.704.3093-1.456.464-2.256.464-.8 0-1.5573-.1547-2.272-.464-.704-.3093-1.3226-.7253-1.856-1.248-.5226-.5333-.9386-1.152-1.248-1.856-.3093-.7146-.464-1.472-.464-2.272z" style="fill:#fff" transform="matrix(.2646 0 0 .2646 .014 .0775)"/></g></svg>
+	    </div>
+	</div>    <header class="fps-header" data-component="HeaderDom">
+        <div class='fps-header-mask'></div>
+    
+        <div class='fps-header-left'>
+            <button
+                class="fps-header-menu"
+                data-role="open-main-menu"
+                aria-label="Open Menu"
+                aria-controls="main-menu-panel">
+                <div class="fps-header-menu-icon">
+                    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M19 7.5H5V6.5H19V7.5Z" fill="currentColor"/>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M19 12.5H5V11.5H19V12.5Z" fill="currentColor"/>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M19 17.5H5V16.5H19V17.5Z" fill="currentColor"/>
+                    </svg>
+                </div>
+                <span>Menu</span>
+            </button>
+            <div class='fps-separator'></div>
+            <button class="fps-open-lang" type="button" aria-label='Change Language' data-role="open-language">
+                <svg data-v-72c2b9e5="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="fps-globe"><path fill="currentColor" fill-rule="evenodd" d="M12 19a7 7 0 1 0 0-14 7 7 0 0 0 0 14Zm0 1a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z" clip-rule="evenodd"></path><path fill="currentColor" fill-rule="evenodd" d="M13.185 17.306c.49-1.31.815-3.185.815-5.306s-.324-3.997-.815-5.306c-.247-.658-.517-1.121-.766-1.402C12.17 5.01 12.025 5 12 5c-.025 0-.17.01-.42.292-.248.28-.518.744-.765 1.402C10.325 8.004 10 9.88 10 12s.324 3.997.815 5.306c.247.658.517 1.121.766 1.402.25.282.394.292.419.292.025 0 .17-.01.42-.292.248-.28.518-.744.765-1.402ZM12 20c1.657 0 3-3.582 3-8s-1.343-8-3-8-3 3.582-3 8 1.343 8 3 8Z" clip-rule="evenodd"></path><path fill="currentColor" fill-rule="evenodd" d="M4 12a.5.5 0 0 1 .5-.5h15a.5.5 0 0 1 0 1h-15A.5.5 0 0 1 4 12Z" clip-rule="evenodd"></path></svg>
+            </button>
+        </div>
+    
+        <a class='fps-logo-link' href='https://www.omegawatches.com/' aria-label='Logo OMEGA watches: to home page'>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 50" class="fps-omega"><path fill='currentColor' d="M48.48 1.249c5.79 0 9.33 4.897 9.33 10.224 0 5.328-2.846 9.393-6.775 12.417l.194.36h9.177l1.985-3.898h-.972l-1.263 1.929h-4.707a13.501 13.501 0 0 0 5.97-10.697C61.42 4.26 54.991 0 48.48 0S35.541 4.26 35.541 11.584a13.492 13.492 0 0 0 5.97 10.697h-4.707l-1.263-1.929h-.972l1.986 3.899h9.176l.25-.36c-3.929-3.011-6.775-7.215-6.775-12.418 0-5.202 3.554-10.224 9.343-10.224h-.069ZM0 39.734a9.969 9.969 0 0 0 6.07 9.288 9.987 9.987 0 0 0 3.815.798 10.11 10.11 0 0 0 6.802-3.134 10.096 10.096 0 0 0 0-13.904 10.11 10.11 0 0 0-6.802-3.134A9.989 9.989 0 0 0 .72 35.905a9.97 9.97 0 0 0-.718 3.829Zm23.269 9.711 3.554-11.723L31.959 50l5.137-12.278 3.554 11.723h2.971L37.513 29.51l-5.554 13.263-5.553-13.263-6.108 19.908h2.957l.014.028Zm-6.456-9.711a7.057 7.057 0 0 1-4.227 6.676 7.07 7.07 0 0 1-2.715.593A7.277 7.277 0 0 1 4.73 44.87a7.267 7.267 0 0 1 5.156-12.405 7.07 7.07 0 0 1 6.476 4.532c.335.873.494 1.803.466 2.738h-.014Zm66.028 9.711 2.013-4.01h10.01l1.957 3.982H100L89.81 28.954l-10.135 20.45h3.18l-.014.041ZM70.124 32.464c-1.93 0-3.78.766-5.144 2.13a7.267 7.267 0 0 0 5.144 12.41 6.944 6.944 0 0 0 6.747-5.175h-6.594v-2.775h9.634c.014.24.014.481 0 .721a9.818 9.818 0 0 1-6.25 8.886A9.835 9.835 0 0 1 63.04 46.36a9.82 9.82 0 0 1 7.057-16.67 9.725 9.725 0 0 1 8.024 4.286l-2.263 1.665a6.94 6.94 0 0 0-5.761-3.122l.028-.055ZM45.98 30.05v19.353h11.44V46.63h-8.608V41.12h8.33v-2.775h-8.33V32.88h8.608v-2.775H45.98v-.055Zm43.773 5.286 3.665 7.325h-7.177l3.512-7.325Z"></path></svg>
+        </a>
+    
+    </header>
+    <omega-header base-url="https://www.omegawatches.com/"></omega-header>
+	<div class="ow-page-wrapper" data-component="Sound" data-other-language>
+		<div class="main-w lang-en" id="contentarea">
+			<div id="canvas-wrapper"></div>
+			<div class="scroll-w hide-mobile" data-component="ScrollCta">
+			    <p class="scroll-text hide-mobile white">
+			        scroll down
+			    </p>
+			    <div class="scroll-icon">
+			        <div class="scroll-icon-inside">
+			            <div class="active-bar static"></div>
+			            <div class="active-bar animated"></div>
+			        </div>
+			    </div>
+			</div>			<div class="mute-button paused hide">
+			  <div class="icon">
+			    <svg class="circle-icon" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 57" aria-hidden="true">
+			        <circle cx="28.2956" cy="28.2956" r="27.9463" stroke="url(#g)" stroke-width="2"/>
+			        <defs>
+			            <linearGradient id="g" x1="9.4319" y1="7.3359" x2="36.3302" y2="33.1862" gradientUnits="userSpaceOnUse">
+			            <stop stop-color="#FFFFFF"/>
+			            <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+			            </linearGradient>
+			        </defs>
+			    </svg>    <svg width="115" height="115" viewBox="0 0 115 115" fill="none" xmlns="http://www.w3.org/2000/svg" class="fps-sound-on sound-icon"><path fill-rule="evenodd" clip-rule="evenodd" d="M58.982 43.875c0-4.216-5.21-6.197-8.01-3.046l-5.6 6.3a1.415 1.415 0 0 1-1.058.475h-5.042a4.584 4.584 0 0 0-4.584 4.584v9.845a4.584 4.584 0 0 0 4.584 4.584h5.042c.404 0 .79.173 1.058.475l5.6 6.3c2.8 3.15 8.01 1.17 8.01-3.046V43.875Zm-5.642-.94c.865-.973 2.473-.362 2.473.94v26.47c0 1.302-1.608 1.914-2.473.941l-5.6-6.3a4.584 4.584 0 0 0-3.426-1.538h-5.042a1.416 1.416 0 0 1-1.416-1.415v-9.845c0-.782.634-1.416 1.416-1.416h5.042c1.31 0 2.556-.56 3.426-1.538l5.6-6.3Zm12.53 7.884c-.688-1.089-.42-2.688.768-3.184.693-.29 1.503-.11 1.943.498a12.943 12.943 0 0 1 2.48 7.615c0 2.939-.989 5.656-2.664 7.864-.45.592-1.253.755-1.935.46-1.187-.514-1.429-2.13-.713-3.209a9.23 9.23 0 0 0 1.563-5.115 9.215 9.215 0 0 0-1.443-4.93Zm6.566-2.912c-.681-1.052-.356-2.546.8-3.03.745-.31 1.612-.096 2.069.568a18.101 18.101 0 0 1-.23 20.931c-.468.65-1.33.848-2.065.53-1.156-.5-1.457-2.01-.75-3.052 1.596-2.354 2.514-5.146 2.514-8.107 0-2.85-.85-5.543-2.338-7.84Z" fill="#EAEAEA"/></svg>
+			    <svg width="115" height="115" viewBox="0 0 115 115" fill="none" xmlns="http://www.w3.org/2000/svg" class="fps-sound-off sound-icon"><path fill-rule="evenodd" clip-rule="evenodd" d="M50.971 40.83c2.801-3.151 8.011-1.17 8.011 3.045v26.47c0 4.216-5.21 6.197-8.01 3.046l-5.6-6.299a1.415 1.415 0 0 0-1.058-.475h-5.042a4.584 4.584 0 0 1-4.584-4.584v-9.845a4.584 4.584 0 0 1 4.584-4.584h5.042c.404 0 .79-.173 1.058-.475l5.6-6.3Zm4.842 3.045c0-1.302-1.608-1.913-2.473-.94l-5.6 6.299a4.585 4.585 0 0 1-3.426 1.538h-5.042c-.782 0-1.416.634-1.416 1.416v9.845c0 .781.634 1.415 1.416 1.415h5.042c1.31 0 2.556.56 3.426 1.539l5.6 6.3c.865.972 2.473.36 2.473-.941V43.875Z" fill="#EAEAEA"/></svg>
+			    </div>
+			  <p class="text">
+			    SOUND
+			  </p>
+			</div>			<div class="grid-w" data-component="Grid" data-scale="large" data-hidden="true">
+			    <div class="long-lines">
+			        <div class="grid-line vertical right"></div>
+			        <div class="grid-line vertical left"></div>
+			        <div class="grid-line horizontal middle"></div>
+			        <div class="grid-line horizontal bottom"></div>
+			        <div class="grid-line horizontal top"></div>
+			    </div>
+			    <div class="short-lines">
+			        <div class="grid-line vertical right"></div>
+			        <div class="grid-line vertical left"></div>
+			        <div class="grid-line horizontal middle"></div>
+			        <div class="grid-line horizontal bottom"></div>
+			        <div class="grid-line horizontal top"></div>
+			    </div>
+			</div>
+			<div data-webgl="Intro">
+				<section class="hero-section fullscreen" data-snap tabindex="0" data-grid-size="default" data-grid-hidden="true" data-component="Hero" data-custom-cursor="1" data-snap>
+				    <h1 class="wcag-hidden">
+				        The quest to remove debris from space
+				    </h1>
+				    <div class="content-w" data-component="HeroAnimation">
+				        <div class="pretitle-w" tabindex="0" aria-label="clearspace omega">
+				            <p>clearspace</p>
+				            <div class="svg-w">
+				                <svg aria-hidden="true" class="cross-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 5 5"><path fill="#CC4C2C" d="M.5359.9282h.5556v5H.5359z" transform="rotate(-45 .5359 .9282)"/><path fill="#CC4C2C" d="M.9286 4.4644h.5556v5H.9286z" transform="rotate(-135 .9286 4.4644)"/></svg>
+				                <svg class="circle-icon" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 57" aria-hidden="true">
+				                    <circle cx="28.2956" cy="28.2956" r="27.9463" stroke="url(#g)" stroke-width="2"/>
+				                    <defs>
+				                        <linearGradient id="g" x1="9.4319" y1="7.3359" x2="36.3302" y2="33.1862" gradientUnits="userSpaceOnUse">
+				                        <stop stop-color="#FFFFFF"/>
+				                        <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+				                        </linearGradient>
+				                    </defs>
+				                </svg>            </div>
+				            <p>omega</p>
+				        </div>
+				        <div class="hero-t" aria-hidden="true">
+				            The quest to remove debris from space
+				        </div>
+				    </div>
+				</section>
+			</div>
+			<div data-webgl="TopView">
+				<section class="rockets-section fullscreen" tabindex="0" data-grid-size="default" data-component="Rockets" data-snap>
+				    <p class="text" aria-label="Since the birth of the first watch on the moon, humankind has successfully launched well over 6,400 rockets." aria-hidden="true">Since the birth of the first watch on the moon, humankind has successfully launched well over 6,400 rockets.</p>
+				    <p class="wcag-hidden">Since the birth of the first watch on the moon, humankind has successfully launched well over 6,400 rockets.</p>
+				</section>				<section class="journeys-section fullscreen" tabindex="0" data-grid-size="default" data-component="Journeys" data-snap>
+				    <p class="text" aria-hidden="true">Journeys into space are now commonplace and our surface-level infrastructure is completely dependent on orbiting technology. Today, our satellite superhighway is stuck in a traffic jam. We need to clean up space. ClearSpace is on the case and OMEGA is proud to support the mission.</p>
+				    <p class="wcag-hidden">Journeys into space are now commonplace and our surface-level infrastructure is completely dependent on orbiting technology. Today, our satellite superhighway is stuck in a traffic jam. We need to clean up space. ClearSpace is on the case and OMEGA is proud to support the mission.</p>
+				</section>			</div>
+			<div data-webgl="Numbers">
+                <section class="keynumbers-section" tabindex="0" data-grid-size="default" data-component="Keynumbers" data-grid-hidden="true" data-snap="cancel">
+                    <ul class="keynumbers">
+                        <li class="keynumber" aria-label="640+ fragmented objects in orbit" aria-hidden="true">
+                            <div class="number" aria-hidden="true">640+</div>
+                            <div class="text" aria-hidden="true">fragmented objects in orbit</div>
+                        </li>
+                        <li class="wcag-hidden">640+ fragmented objects in orbit</li>
+                        <li class="keynumber" aria-label="2,400+ Objects launched annually" aria-hidden="true">
+                            <div class="number" aria-hidden="true">2,400+</div>
+                            <div class="text" aria-hidden="true">Objects launched annually</div>
+                        </li>
+                        <li class="wcag-hidden">2,400+ Objects launched annually</li>
+                    </ul>
+                </section>			</div>
+			<div data-webgl="Wireframe">
+                <section class="junk-section fullscreen" tabindex="0" data-component="Junk" data-grid-size="default" data-snap>
+                    <p class="text" aria-hidden="true">/*36,500+*/ /_pieces_/ of space junk greater than 10cm in orbit</p>
+                    <p class="wcag-hidden">/*36,500+*/ /_pieces_/ of space junk greater than 10cm in orbit</p>
+                </section>                <section class="howto-section fullscreen" tabindex="0" data-grid-size="small" data-component="Howto" data-snap>
+                    <div class="content">
+                        <h2 class="title" aria-label="Taking out the space trash: how it works">Taking out the space trash: how it works</h2>
+                        <p class="text" aria-label="A vessel with four gripping arms catches and holds the debris, allowing ClearSpace to send it on a path to controlled disintegration.">A vessel with four gripping arms catches and holds the debris, allowing ClearSpace to send it on a path to controlled disintegration.</p>
+                    </div>
+                </section>			</div>
+            <div data-webgl="SkyView">
+                <section class="innovators-section fullscreen" tabindex="0" data-grid-size="default" data-component="Innovators" data-snap>
+                    <div class="content">
+                        <p class="pretitle" aria-label="CLEARSPACE-1">CLEARSPACE-1</p>
+                        <h2 class="wcag-hidden">The world first ever space debris removal mission</h2>
+                        <div class="text" aria-hidden="true">The world first ever space debris removal mission</h2>
+                    </div>
+                </section>                <section class="company-section" tabindex="0" data-grid-size="medium" data-component="Company" data-snap>
+                    <p class="text" aria-hidden="true">In 2020, ESA and 8 member states including Switzerland have taken a bold step forward and mandated the first debris removal mission in history to ClearSpace and pave the way toward a new normal.</p>
+                    <p class="wcag-hidden">In 2020, ESA and 8 member states including Switzerland have taken a bold step forward and mandated the first debris removal mission in history to ClearSpace and pave the way toward a new normal.</p>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 245 67"><path fill="#fff" d="M97.7867 13.7614h-3.9666c-.1656-2.2001-1.5999-3.6328-3.665-3.6328-2.6671 0-4.2341 2.2675-4.2341 5.9667 0 3.6984 1.567 5.965 4.2341 5.965 2.0651 0 3.465-1.6327 3.6323-3.9329h3.9993c-.3329 4.1002-3.2654 6.9327-7.6316 6.9327-4.9997 0-8.2329-3.4664-8.2329-8.9648 0-5.4992 3.2332-8.9664 8.2329-8.9664 4.3317 0 7.2987 2.766 7.6316 6.6325ZM101.354.8298h3.799v23.7305h-3.799V.8298ZM120.95 19.4611h3.9c-.632 3.0334-3.365 5.5985-7.8 5.5985-5.164 0-8.198-3.6984-8.198-9.1649 0-4.999 2.999-8.7647 8.134-8.7647 3.865 0 6.664 2.233 7.597 5.7658.334 1.0669.468 2.333.468 3.9657h-12.433c.134 3.8329 2.067 5.4001 4.432 5.4001 2.168 0 3.567-1.1678 3.9-2.8005Zm-8.265-5.0991h8.566c-.267-2.9661-2-4.4323-4.265-4.4323-2.301 0-3.968 1.499-4.301 4.4323ZM142.049 13.7612v6.3324c0 2.0001.165 3.3991.432 4.466h-3.432c-.166-.7339-.234-1.5654-.234-2.3666h-.066c-1.233 1.8-3.133 2.734-5.699 2.734-3.533 0-5.732-2.1329-5.732-5.0326 0-2.7661 1.631-4.566 6.498-5.3328 1.367-.2337 3.367-.4338 4.566-.4994v-.6675c0-2.4995-1.366-3.5-3.299-3.5-2.1 0-3.233 1.1661-3.333 2.9669h-3.733c.167-3.199 2.5-5.733 7.066-5.733 4.466 0 6.966 2.2011 6.966 6.6326Zm-3.667 2.7669c-1.134.0656-2.766.2329-3.9.433-2.433.3993-3.332 1.1333-3.332 2.6668 0 1.499 1.066 2.4995 2.999 2.4995 1.168 0 2.301-.3674 3.066-1.1342.901-.9324 1.167-1.8328 1.167-3.6328v-.8323ZM156.547 7.5632v3.3654c-.466-.1-.9-.1328-1.333-.1328-3.033 0-4.699 1.9329-4.699 5.4664v8.2981h-3.8V7.6288h3.534v2.5011h.066c1.133-1.8336 2.732-2.7332 4.832-2.7332.434 0 .967.0664 1.4.1665ZM171.763 12.8955h-3.667c0-2.0337-1.199-2.9998-3.231-2.9998-1.767 0-2.8.766-2.8 2.0001 0 1.4655 1.166 1.7656 3.833 2.4331 3.099.7996 6.398 1.5335 6.398 5.5657 0 3.0661-2.733 5.1655-7.099 5.1655-4.532 0-7.298-2.0329-7.332-6.0651h3.866c0 2.0657 1.267 3.2318 3.534 3.2318 1.932 0 3.065-.8332 3.065-2.0985 0-1.7344-1.332-2.0673-4.266-2.8005-2.833-.6995-5.799-1.3326-5.799-5.1327 0-2.9997 2.666-5.0654 6.632-5.0654 4.299 0 6.833 1.9993 6.866 5.7658ZM190.5 16.0954c0 5.3984-2.734 8.8647-7.033 8.8647-2.099 0-3.999-.9668-4.965-2.5987h-.067v8.3652h-3.799V7.6293h3.699V9.963h.067c1-1.7336 2.899-2.7668 5.033-2.7668 4.298 0 7.065 3.4991 7.065 8.8991Zm-12.266 0c0 3.6665 1.635 5.9331 4.101 5.9331 2.566 0 4.198-2.3339 4.198-5.9331 0-3.6-1.632-5.9322-4.198-5.9322-2.466 0-4.101 2.2322-4.101 5.9322ZM207.498 13.7612v6.3324c0 2.0001.166 3.3991.434 4.466h-3.433c-.167-.7339-.234-1.5654-.234-2.3666h-.066c-1.234 1.8-3.134 2.734-5.699 2.734-3.534 0-5.734-2.1329-5.734-5.0326 0-2.7661 1.634-4.566 6.499-5.3328 1.367-.2337 3.367-.4338 4.566-.4994v-.6675c0-2.4995-1.366-3.5-3.299-3.5-2.099 0-3.232 1.1661-3.332 2.9669h-3.733c.166-3.199 2.499-5.733 7.065-5.733 4.466 0 6.966 2.2011 6.966 6.6326Zm-3.667 2.7669c-1.132.0656-2.766.2329-3.899.433-2.433.3993-3.333 1.1333-3.333 2.6668 0 1.499 1.066 2.4995 2.999 2.4995 1.167 0 2.301-.3674 3.067-1.1342.899-.9324 1.166-1.8328 1.166-3.6328v-.8323ZM226.124 13.7614h-3.966c-.167-2.2001-1.599-3.6328-3.666-3.6328-2.666 0-4.233 2.2675-4.233 5.9667 0 3.6984 1.567 5.965 4.233 5.965 2.067 0 3.466-1.6327 3.632-3.9329h4c-.334 4.1002-3.267 6.9327-7.632 6.9327-5 0-8.233-3.4664-8.233-8.9648 0-5.4992 3.233-8.9664 8.233-8.9664 4.333 0 7.298 2.766 7.632 6.6325ZM240.822 19.4611h3.9c-.634 3.0334-3.367 5.5985-7.799 5.5985-5.166 0-8.198-3.6984-8.198-9.1649 0-4.999 2.999-8.7647 8.131-8.7647 3.867 0 6.667 2.233 7.6 5.7658.333 1.0669.466 2.333.466 3.9657H232.49c.134 3.8329 2.067 5.4001 4.433 5.4001 2.167 0 3.566-1.1678 3.899-2.8005Zm-8.264-5.0991h8.564c-.265-2.9661-1.999-4.4323-4.266-4.4323-2.299 0-3.965 1.499-4.298 4.4323ZM93.1671 57.6017v2.9668c-.5675.1672-1.4335.3002-2.1338.3002-3.5664 0-5.1327-1.5007-5.1327-5.2v-9.0311h-2.8332V43.737h2.8332v-4.2322h3.8002v4.2322h3.299v2.9006h-3.299v8.4645c0 1.8999.633 2.6668 2.2985 2.6668.4338 0 .9013-.0674 1.1678-.1672ZM111.497 52.2023c0 5.4985-3.199 8.9654-8.332 8.9654-5.1323 0-8.365-3.4669-8.365-8.9654 0-5.4995 3.2327-8.9657 8.365-8.9657 5.133 0 8.332 3.4662 8.332 8.9657Zm-12.6984 0c0 3.6672 1.6664 5.9659 4.3664 5.9659 2.7 0 4.367-2.2987 4.367-5.9659 0-3.6655-1.667-5.9658-4.367-5.9658s-4.3664 2.3003-4.3664 5.9658ZM125.874 60.6675v-2.3323h-.068c-.999 1.7327-2.899 2.7324-5.031 2.7324-4.299 0-7.067-3.4662-7.067-8.8648 0-5.3998 2.733-8.8991 7.033-8.8991 2.098 0 3.999.9677 4.965 2.6325h.067v-8.9995h3.8v23.7308h-3.699Zm-8.2-8.4647c0 3.5992 1.634 5.9316 4.2 5.9316 2.466 0 4.099-2.2657 4.099-5.9316 0-3.6992-1.633-5.9329-4.099-5.9329-2.566 0-4.2 2.333-4.2 5.9329ZM147.409 49.8694v6.3322c0 2.0002.167 3.3991.434 4.4661h-3.433c-.168-.7322-.232-1.5655-.232-2.3669h-.069c-1.232 1.8002-3.132 2.7334-5.698 2.7334-3.534 0-5.733-2.1321-5.733-5.0318 0-2.7661 1.633-4.566 6.499-5.3329 1.366-.2335 3.366-.4337 4.567-.5003v-.6666c0-2.4996-1.367-3.5-3.3-3.5-2.1 0-3.234 1.167-3.333 2.967h-3.734c.168-3.1989 2.502-5.733 7.067-5.733 4.465 0 6.965 2.201 6.965 6.6328Zm-3.665 2.7657c-1.134.0667-2.767.2339-3.9.4347-2.434.3985-3.334 1.1326-3.334 2.6661 0 1.4998 1.067 2.4995 3 2.4995 1.166 0 2.3-.3668 3.066-1.1333.9-.9334 1.168-1.8329 1.168-3.6338v-.8332ZM158.975 61.4015c-1.6 4.2995-3.466 5.5985-7.4 5.5985-.733 0-1.398-.0993-1.898-.2322v-3.1006c.432.1336.999.2339 1.599.2339 2.067 0 2.965-.7669 3.766-3.0998l-6.198-17.0644h4.065l4.233 12.5983h.065l4.367-12.5983h3.933l-6.532 17.6646ZM60.3216 23.4194H44.6488c-1.1882-6.0551-6.4125-10.5683-12.9437-10.5683-8.9063 0-14.9618 7.244-14.9618 20.5434 0 13.4195 5.6998 20.8994 15.0796 20.8994 5.9376 0 11.2817-2.8489 13.4191-10.5683h15.6728C57.1153 61.1805 44.5293 67 30.992 67 11.5174 67 0 52.8691 0 33.6324 0 14.1578 12.2308.147 31.7051.147c13.6554 0 26.479 7.3617 28.6165 23.2724Z"/><path fill="#EA3A23" d="M55.901 28.5997h9.9435v9.9435H55.901v-9.9435Z"/></svg>
+                </section>            </div>
+            <div data-webgl="Hud">
+                <section class="pioneering-section fullscreen" tabindex="0" data-grid-size="large" data-component="Pioneering" data-grid-hidden="true" data-snap>
+                    <div class="content">
+                        <div class="bg"></div>
+                        <h2 class="title" aria-label="PIONEERING SUSTAINABILITY BEYOND EARTH">PIONEERING SUSTAINABILITY BEYOND EARTH</h2>
+                        <p class="text" aria-label="A critical mission awaits us: the preservation of a clean and sustainable cosmos for future generations. Acknowledging this monumental challenge, OMEGA boldly steps up to the plate with its commitment to ClearSpace.">A critical mission awaits us: the preservation of a clean and sustainable cosmos for future generations. Acknowledging this monumental challenge, OMEGA boldly steps up to the plate with its commitment to ClearSpace.</p>
+                        <p class="text" aria-label="This dynamic collaboration signifies OMEGA's unwavering dedication to forging a path towards an environmentally conscious tomorrow, extending its influence from the depths of the ocean and the surface of our planet to the bustling and cluttered realms of space.">This dynamic collaboration signifies OMEGA's unwavering dedication to forging a path towards an environmentally conscious tomorrow, extending its influence from the depths of the ocean and the surface of our planet to the bustling and cluttered realms of space.</p>
+                    </div>
+                </section>            </div>
+			<div data-webgl="Clean">
+				<section class="clean-section fullscreen" tabindex="0" data-grid-size="large" data-component="Clean" data-snap>
+				    <div class="content-w">
+				        <p class="pretitle" aria-label="creating a more sustainable future">creating a more sustainable future</p>
+				        <h2 class="wcag-hidden">a clean space for exploration</h2>
+				        <div class="title" aria-hidden="true">a clean space for exploration</h2>
+				    </div>
+				</section>				<section class="quote-section fullscreen" tabindex="0" data-grid-size="large" data-component="Quote" data-snap>
+				    <div class="svg-w">
+				        <svg class="quote-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 9 6"><path fill="#C94A2D" d="m8.7 0 .3.3467c-1.34 1.0133-2.01 1.9466-2.01 2.8 0 .1955.13.5066.39.9333.14.2311.21.48.21.7467C7.59 5.6089 7.16 6 6.3 6c-.44 0-.8-.1422-1.08-.4267-.28-.2844-.42-.64-.42-1.0666 0-.7467.35-1.529 1.05-2.3467C6.57 1.3244 7.52.6044 8.7 0ZM3.9 0l.3.3467c-1.34 1.0133-2.01 1.9466-2.01 2.8 0 .1955.13.5066.39.9333.14.2311.21.48.21.7467C2.79 5.6089 2.36 6 1.5 6c-.44 0-.8-.1422-1.08-.4267C.14 5.289 0 4.9333 0 4.5067 0 3.76.35 2.9777 1.05 2.16 1.77 1.3244 2.72.6044 3.9 0Z"/></svg>
+				        <svg class="circle-icon" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 57" aria-hidden="true">
+				            <circle cx="28.2956" cy="28.2956" r="27.9463" stroke="url(#g)" stroke-width="2"/>
+				            <defs>
+				                <linearGradient id="g" x1="9.4319" y1="7.3359" x2="36.3302" y2="33.1862" gradientUnits="userSpaceOnUse">
+				                <stop stop-color="#FFFFFF"/>
+				                <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+				                </linearGradient>
+				            </defs>
+				        </svg>    </div>
+				    <p class="text" aria-label="Supporting ClearSpace is the logical next step for a brand with a proud history of both space exploration and Earth conservation. It is one of the most important, inspiring and exciting projects since the launch of the Apollo missions.">Supporting ClearSpace is the logical next step for a brand with a proud history of both space exploration and Earth conservation. It is one of the most important, inspiring and exciting projects since the launch of the Apollo missions.</p>
+				    <p class="author"><span class="name">Raynald Aeschlimann</span><br><span class="post">OMEGA President and CEO</span></p>
+				
+				    <div class='footer-wrapper'>
+				        <div class="ow-page-footer" data-snap="cancel"></div>
+				        <p class="discover-more">Discover more about <a href="https://www.omegawatches.com/world-of-omega">World of OMEGA</a></p>
+				        <omega-footer base-url="" data-transparent="1" data-dark="1"></omega-footer>
+				    </div>
+				</section>
+			</div>
+			<div class="longpress-dom" data-component="LongpressDom">
+			    <div class="text">/*33,680*/ and counting <br/> pieces of space junk in orbit</div>
+			</div>		</div>
+	</div>
+
+    <omega-cookies base-url="https://www.omegawatches.com/"></omega-cookies>
+
+	<script src="/world-of-omega/sustainability/clearspace/appv2.js"></script>
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NF33S6T"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+    <script src="https://www.omegawatches.com/media/external/omega-external.js"></script>
+</body>
+
+</html>
